@@ -8,8 +8,5 @@ In the project directory, you can run:
 
 ### `npm start`
 
-## Notes for my Assesors
-Hi Geektastc Team, apologies for my difficulties in submitting the original attempt. I'm not used to sharing projects outside of git, so if I've missed any files out please feel free to let me know.
-I've added some cursory tests to show that I am aware of the notion of TDD and testing as you go, but since there was a tight deadline and I am still working full time I couldnt right quite as many as I'd like.
+This project is a simple shopping basket application built as a practice exercise to explore key Redux concepts. It focuses on using the Redux Store, useSelector hooks, and state management techniques to ensure data persists seamlessly between components. The goal of the project was to deepen understanding of Redux fundamentals and their application in managing shared state effectively.
 
-Looking forward to your feedback and thanks for reviewing my project!
